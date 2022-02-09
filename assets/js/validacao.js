@@ -1,4 +1,5 @@
-const validaDataNascimento = document.querySelector('#nascimento');
+const dataNascimento = document.querySelector('#nascimento');
+
 dataNascimento.addEventListener('blur', (evento) => {
 	validaDataNascimento(evento.target);
 });
@@ -16,9 +17,9 @@ function validaDataNascimento(input) {
 
 function maiorQue18(data) {
 	const dataAtual = new Date();
-	const daMais18 = new Date(
+	const dataMais18 = new Date(
 		data.getUTCFullYear() + 18,
-		getUTCMonth(),
+		data.getUTCMonth(),
 		data.getUTCDate()
 	);
 
