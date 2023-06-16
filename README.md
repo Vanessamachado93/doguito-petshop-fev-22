@@ -34,3 +34,7 @@ O projeto de Validação de Formulários e HTML5 oferece uma solução simples e
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhoria, não hesite em abrir uma issue ou enviar um pull request.
 
 Divirta-se validando seus formulários com o projeto Validação de Formulários e HTML5!
+
+<img src="./images/../assets/img/pagina-inicial.png" alt="Texto alternativo" width="720" height="360"><br>
+<img src="./images/../assets/img/aviso-campo.png" alt="Texto alternativo" width="720" height="360"><br>
+<img src="./images/../assets/img/formulario-conclido.png" alt="Texto alternativo" width="720" height="360"><br>
